@@ -55,7 +55,7 @@ This will start the frontend development server, typically available at `http://
 
 ### Set up the backend
 
-In a new terminal, navigate to the `server` directory from the root of the project, install dependencies, and start the backend server:
+Rename the `env.example` file as `.env` and adjust your environment variables to your needs. Then, in a new terminal, navigate to the `server` directory from the root of the project, install dependencies, and start the backend server:
 
 ```
 cd server
